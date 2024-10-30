@@ -1,4 +1,6 @@
 **Sentiment Analysis of Twitter Data: Using Deep Learning Techniques**
+
+
 In the domain of online entertainment, with the fast growing of communication and information technology, understanding opinions conveyed on stages like Twitter, Facebook,
 Instagram etc. is crucial for unraveling general evaluations and patterns. Twitter information’s special ascribes, including
 emoticon use, present difficulties for opinion examination. There is need to develop a method that extracts information from large
